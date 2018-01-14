@@ -6371,7 +6371,7 @@
         "N80": "$$a913(438)$$2MRF",
         "N245A": "Mława, Miawa",
         "N651": "$$aMława (Polsko : oblast)$$7ge856409",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
