@@ -1051,7 +1051,7 @@
         "N80": "$$a913(497.2)$$2MRF",
         "N245A": "Stara Zagora (Eski Zagra), Eski Zagra",
         "N651": "$$aStara Zagora (Bulharsko : oblast)$$7ge856658",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
