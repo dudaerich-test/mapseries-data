@@ -1971,7 +1971,7 @@
         "N80": "$$a913(474.3)$$2MRF|$$a913(474.5)$$2MRF|$$a913(476)$$2MRF|$$a913(470-15)$$2MRF",
         "N245A": "Dwinsk (Dünaburg), Friedrichstadt.",
         "N651": "$$aDaugavpils (Lotyšsko : oblast)|$$aJaunjelgava (Lotyšsko : oblast)",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
