@@ -1211,7 +1211,7 @@
         "N80": "$$a913(430)$$2MRF|$$a913(492)$$2MRF",
         "N245A": "Cöln, Cassel, Hannover, Osnabbrück, Fulda.",
         "N651": "$$aKolín nad Rýnem (Německo : oblast)$$7ge527983|$$aKassel (Německo : oblast)|$$aHannover (Německo : oblast)$$7ge679596|$$aOsnabrück (Německo : oblast)|$$aFulda (Německo : oblast)$$7ge897939",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
