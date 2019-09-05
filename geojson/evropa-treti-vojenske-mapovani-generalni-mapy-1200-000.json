@@ -211,7 +211,7 @@
         "N80": "$$a913(497.11)$$2MRF",
         "N245A": "Mitrovice|Mitrowitz, Mitrovica",
         "N651": "$$aSremska Mitrovica (Srbsko : oblast)$$7ge856389",
-        "POZNAMKA": ""
+        "POZNAMKA": "Test"
       },
       "geometry": {
         "type": "Polygon",
